@@ -57,27 +57,27 @@ include CMakeFiles/Hailey.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Hailey.dir/flags.make
 
-CMakeFiles/Hailey.dir/src/main.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Hailey.dir/src/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/main.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/main.cpp
+CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.o: CMakeFiles/Hailey.dir/flags.make
+CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.o: ../src/algorithms/NumberTheory/PeasentMultiplication.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/NumberTheory/PeasentMultiplication.cpp
 
-CMakeFiles/Hailey.dir/src/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/main.cpp > CMakeFiles/Hailey.dir/src/main.cpp.i
+CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/NumberTheory/PeasentMultiplication.cpp > CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.i
 
-CMakeFiles/Hailey.dir/src/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/main.cpp -o CMakeFiles/Hailey.dir/src/main.cpp.s
+CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/NumberTheory/PeasentMultiplication.cpp -o CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.s
 
 # Object files for target Hailey
 Hailey_OBJECTS = \
-"CMakeFiles/Hailey.dir/src/main.cpp.o"
+"CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.o"
 
 # External object files for target Hailey
 Hailey_EXTERNAL_OBJECTS =
 
-Hailey: CMakeFiles/Hailey.dir/src/main.cpp.o
+Hailey: CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.o
 Hailey: CMakeFiles/Hailey.dir/build.make
 Hailey: CMakeFiles/Hailey.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Hailey"

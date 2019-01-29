@@ -123,32 +123,32 @@ Hailey/fast:
 	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/build
 .PHONY : Hailey/fast
 
-src/main.o: src/main.cpp.o
+src/algorithms/NumberTheory/PeasentMultiplication.o: src/algorithms/NumberTheory/PeasentMultiplication.cpp.o
 
-.PHONY : src/main.o
+.PHONY : src/algorithms/NumberTheory/PeasentMultiplication.o
 
 # target to build an object file
-src/main.cpp.o:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/main.cpp.o
-.PHONY : src/main.cpp.o
+src/algorithms/NumberTheory/PeasentMultiplication.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.o
+.PHONY : src/algorithms/NumberTheory/PeasentMultiplication.cpp.o
 
-src/main.i: src/main.cpp.i
+src/algorithms/NumberTheory/PeasentMultiplication.i: src/algorithms/NumberTheory/PeasentMultiplication.cpp.i
 
-.PHONY : src/main.i
+.PHONY : src/algorithms/NumberTheory/PeasentMultiplication.i
 
 # target to preprocess a source file
-src/main.cpp.i:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/main.cpp.i
-.PHONY : src/main.cpp.i
+src/algorithms/NumberTheory/PeasentMultiplication.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.i
+.PHONY : src/algorithms/NumberTheory/PeasentMultiplication.cpp.i
 
-src/main.s: src/main.cpp.s
+src/algorithms/NumberTheory/PeasentMultiplication.s: src/algorithms/NumberTheory/PeasentMultiplication.cpp.s
 
-.PHONY : src/main.s
+.PHONY : src/algorithms/NumberTheory/PeasentMultiplication.s
 
 # target to generate assembly for a file
-src/main.cpp.s:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/main.cpp.s
-.PHONY : src/main.cpp.s
+src/algorithms/NumberTheory/PeasentMultiplication.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.s
+.PHONY : src/algorithms/NumberTheory/PeasentMultiplication.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Hailey"
-	@echo "... src/main.o"
-	@echo "... src/main.i"
-	@echo "... src/main.s"
+	@echo "... src/algorithms/NumberTheory/PeasentMultiplication.o"
+	@echo "... src/algorithms/NumberTheory/PeasentMultiplication.i"
+	@echo "... src/algorithms/NumberTheory/PeasentMultiplication.s"
 .PHONY : help
 
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Hailey.dir/src/main.cpp.o"
+  "CMakeFiles/Hailey.dir/src/algorithms/NumberTheory/PeasentMultiplication.cpp.o"
   "Hailey.pdb"
   "Hailey"
 )
