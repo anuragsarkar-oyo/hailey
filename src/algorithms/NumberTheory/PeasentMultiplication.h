@@ -28,20 +28,17 @@
 
 using namespace std;
 
-int peasentMultiply(int n, int m) {
-    int prod = 0; // start int product with setting it to 0
-    while(n > 0) { // start counter
-        prod += m; // add any variable n or m (flow will change accordingly)
-        n = n/2; // n -> n/2
-        m *= 2; // m -> m*2
+class PeasentMultiply {
+public:
+    int peasentMultiply(int n, int m) {
+        int prod = 0; // start int product with setting it to 0
+        while (n > 0) { // start counter
+            prod += m; // add any variable n or m (flow will change accordingly)
+            n = n / 2; // n -> n/2
+            m *= 2; // m -> m*2
+        }
+        return prod; // return product
     }
-    return prod; // return product
-}
 
-int main() {
-    int n,m;
-    cin>>n>>m;
-    cout << peasentMultiply(n,m);
-    return 0;
-}
+};
 
