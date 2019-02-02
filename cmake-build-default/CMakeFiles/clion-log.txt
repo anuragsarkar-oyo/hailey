@@ -1,4 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE= -DCMAKE_TOOLCHAIN_FILE=\Users\oyo\Desktop\vcpkg\scripts\buildsystems\vcpkg.cmake -G "CodeBlocks - Unix Makefiles" /Users/oyo/Desktop/C++/Hailey
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/oyo/Desktop/C++/Hailey/cmake-build-default
