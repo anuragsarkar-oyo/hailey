@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Hailey.dir/src/algorithms/Arrays/EquilibriumPoint.cpp.o CMakeFiles/Hailey.dir/src/DataStructure/LinkedList/Insertion.cpp.o  -o Hailey 
