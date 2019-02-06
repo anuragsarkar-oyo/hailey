@@ -10,8 +10,8 @@ int main()
     linkListBuilder().append(&head, 6);
     linkListBuilder().push(&head, 7);
     linkListBuilder().push(&head, 1);
-    linkListBuilder().append(&head, 4);
-    linkListBuilder().insertAfter(head->next, 8);
+    linkListBuilder().push(&head, 4);
+    linkListBuilder().insertAfter(head->next->next, 8);
     linkListBuilder().printList(head);
     return 0;
 }

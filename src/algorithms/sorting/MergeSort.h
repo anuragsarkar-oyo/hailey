@@ -9,7 +9,7 @@
 
 #include <vector>
 //Mergesort is one of the earliest algorithms proposed for sorting. According to Donald Knuth,
-////it was suggested by John von Neumann as early as 1945.
+//it was suggested by John von Neumann as early as 1945.
 
 
 class MergeSort {

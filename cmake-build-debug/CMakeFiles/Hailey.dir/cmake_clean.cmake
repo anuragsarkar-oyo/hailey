@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Hailey.dir/src/algorithms/Arrays/EquilibriumPoint.cpp.o"
-  "CMakeFiles/Hailey.dir/src/DataStructure/LinkedList/Insertion.cpp.o"
+  "CMakeFiles/Hailey.dir/src/main.cpp.o"
   "Hailey.pdb"
   "Hailey"
 )

@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/oyo/Desktop/C++/Hailey/src/algorithms/Arrays/EquilibriumPoint.cpp
+/Users/oyo/Desktop/C++/Hailey/src/algorithms/sorting/QuickSort.h
+
+/Users/oyo/Desktop/C++/Hailey/src/main.cpp
 iostream
 -
 algorithm
 -
-vector
--
-numeric
--
+algorithms/sorting/QuickSort.h
+/Users/oyo/Desktop/C++/Hailey/src/algorithms/sorting/QuickSort.h
 

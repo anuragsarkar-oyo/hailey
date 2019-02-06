@@ -123,59 +123,32 @@ Hailey/fast:
 	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/build
 .PHONY : Hailey/fast
 
-src/DataStructure/LinkedList/Insertion.o: src/DataStructure/LinkedList/Insertion.cpp.o
+src/main.o: src/main.cpp.o
 
-.PHONY : src/DataStructure/LinkedList/Insertion.o
-
-# target to build an object file
-src/DataStructure/LinkedList/Insertion.cpp.o:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/DataStructure/LinkedList/Insertion.cpp.o
-.PHONY : src/DataStructure/LinkedList/Insertion.cpp.o
-
-src/DataStructure/LinkedList/Insertion.i: src/DataStructure/LinkedList/Insertion.cpp.i
-
-.PHONY : src/DataStructure/LinkedList/Insertion.i
-
-# target to preprocess a source file
-src/DataStructure/LinkedList/Insertion.cpp.i:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/DataStructure/LinkedList/Insertion.cpp.i
-.PHONY : src/DataStructure/LinkedList/Insertion.cpp.i
-
-src/DataStructure/LinkedList/Insertion.s: src/DataStructure/LinkedList/Insertion.cpp.s
-
-.PHONY : src/DataStructure/LinkedList/Insertion.s
-
-# target to generate assembly for a file
-src/DataStructure/LinkedList/Insertion.cpp.s:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/DataStructure/LinkedList/Insertion.cpp.s
-.PHONY : src/DataStructure/LinkedList/Insertion.cpp.s
-
-src/algorithms/Arrays/EquilibriumPoint.o: src/algorithms/Arrays/EquilibriumPoint.cpp.o
-
-.PHONY : src/algorithms/Arrays/EquilibriumPoint.o
+.PHONY : src/main.o
 
 # target to build an object file
-src/algorithms/Arrays/EquilibriumPoint.cpp.o:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Arrays/EquilibriumPoint.cpp.o
-.PHONY : src/algorithms/Arrays/EquilibriumPoint.cpp.o
+src/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
 
-src/algorithms/Arrays/EquilibriumPoint.i: src/algorithms/Arrays/EquilibriumPoint.cpp.i
+src/main.i: src/main.cpp.i
 
-.PHONY : src/algorithms/Arrays/EquilibriumPoint.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-src/algorithms/Arrays/EquilibriumPoint.cpp.i:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Arrays/EquilibriumPoint.cpp.i
-.PHONY : src/algorithms/Arrays/EquilibriumPoint.cpp.i
+src/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-src/algorithms/Arrays/EquilibriumPoint.s: src/algorithms/Arrays/EquilibriumPoint.cpp.s
+src/main.s: src/main.cpp.s
 
-.PHONY : src/algorithms/Arrays/EquilibriumPoint.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-src/algorithms/Arrays/EquilibriumPoint.cpp.s:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Arrays/EquilibriumPoint.cpp.s
-.PHONY : src/algorithms/Arrays/EquilibriumPoint.cpp.s
+src/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Hailey"
-	@echo "... src/DataStructure/LinkedList/Insertion.o"
-	@echo "... src/DataStructure/LinkedList/Insertion.i"
-	@echo "... src/DataStructure/LinkedList/Insertion.s"
-	@echo "... src/algorithms/Arrays/EquilibriumPoint.o"
-	@echo "... src/algorithms/Arrays/EquilibriumPoint.i"
-	@echo "... src/algorithms/Arrays/EquilibriumPoint.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
 .PHONY : help
 
 
