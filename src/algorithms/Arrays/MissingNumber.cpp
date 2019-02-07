@@ -6,6 +6,8 @@
 #include <algorithm>
 #include <vector>
 
+// find the missing number in array starting from 1 ... n
+
 void missingNumberInArray(int arr[], int sizeOfArray) {
     int maxValue = *std::max_element(arr,arr+sizeOfArray);
     int lookup[maxValue];

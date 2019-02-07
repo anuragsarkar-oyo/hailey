@@ -5,6 +5,8 @@
 #include <iostream>
 #include <algorithm>
 
+// straight forward kadane's algorithm
+
 void Kadane(int arr[], int sizeOfArray) {
     int maxGlobal = arr[0];
     int maxSoFar = arr[0];

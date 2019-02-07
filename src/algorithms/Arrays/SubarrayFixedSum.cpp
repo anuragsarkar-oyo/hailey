@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <algorithm>
-
+// find the subarray with a given sum.
 void subArrayFixedSum(int arr[], int sizeOfArray, int sum) {
     int start=0;
     int currentSum = arr[0];

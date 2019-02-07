@@ -123,32 +123,32 @@ Hailey/fast:
 	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/build
 .PHONY : Hailey/fast
 
-src/main.o: src/main.cpp.o
+src/algorithms/Arrays/MaximumSumIncreasingSubseq.o: src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.o
 
-.PHONY : src/main.o
+.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.o
 
 # target to build an object file
-src/main.cpp.o:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/main.cpp.o
-.PHONY : src/main.cpp.o
+src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.o
+.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.o
 
-src/main.i: src/main.cpp.i
+src/algorithms/Arrays/MaximumSumIncreasingSubseq.i: src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.i
 
-.PHONY : src/main.i
+.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.i
 
 # target to preprocess a source file
-src/main.cpp.i:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/main.cpp.i
-.PHONY : src/main.cpp.i
+src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.i
+.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.i
 
-src/main.s: src/main.cpp.s
+src/algorithms/Arrays/MaximumSumIncreasingSubseq.s: src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.s
 
-.PHONY : src/main.s
+.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.s
 
 # target to generate assembly for a file
-src/main.cpp.s:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/main.cpp.s
-.PHONY : src/main.cpp.s
+src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.s
+.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Hailey"
-	@echo "... src/main.o"
-	@echo "... src/main.i"
-	@echo "... src/main.s"
+	@echo "... src/algorithms/Arrays/MaximumSumIncreasingSubseq.o"
+	@echo "... src/algorithms/Arrays/MaximumSumIncreasingSubseq.i"
+	@echo "... src/algorithms/Arrays/MaximumSumIncreasingSubseq.s"
 .PHONY : help
 
 

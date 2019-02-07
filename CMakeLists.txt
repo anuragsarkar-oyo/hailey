@@ -5,4 +5,4 @@ project(Hailey)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Hailey src/algorithms/sorting/QuickSort.h src/main.cpp)
+add_executable(Hailey src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp src/all.h)

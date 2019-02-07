@@ -6,13 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/Users/oyo/Desktop/C++/Hailey/src/algorithms/sorting/QuickSort.h
+/Users/oyo/Desktop/C++/Hailey/src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp
+../../all.h
+/Users/oyo/Desktop/C++/Hailey/src/all.h
 
-/Users/oyo/Desktop/C++/Hailey/src/main.cpp
+/Users/oyo/Desktop/C++/Hailey/src/all.h
 iostream
 -
 algorithm
 -
-algorithms/sorting/QuickSort.h
-/Users/oyo/Desktop/C++/Hailey/src/algorithms/sorting/QuickSort.h
+stack
+-
+queue
+-
+numeric
+-
+utility
+-
 

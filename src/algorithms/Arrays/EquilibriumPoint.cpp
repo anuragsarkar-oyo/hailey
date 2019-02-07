@@ -6,7 +6,7 @@
 #include <algorithm>
 #include <vector>
 #include <numeric>
-
+// find the point where left array sum is equal to right array sum
 
 void equilibriumPoint(int arr[], int sizeOfArray) {
     int i = 0;
