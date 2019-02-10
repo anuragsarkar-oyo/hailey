@@ -123,32 +123,383 @@ Hailey/fast:
 	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/build
 .PHONY : Hailey/fast
 
-src/algorithms/Arrays/MaximumSumIncreasingSubseq.o: src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.o
+src/algorithms/Graph/2SAT.o: src/algorithms/Graph/2SAT.cpp.o
 
-.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.o
+.PHONY : src/algorithms/Graph/2SAT.o
 
 # target to build an object file
-src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.o:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.o
-.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.o
+src/algorithms/Graph/2SAT.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.o
+.PHONY : src/algorithms/Graph/2SAT.cpp.o
 
-src/algorithms/Arrays/MaximumSumIncreasingSubseq.i: src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.i
+src/algorithms/Graph/2SAT.i: src/algorithms/Graph/2SAT.cpp.i
 
-.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.i
+.PHONY : src/algorithms/Graph/2SAT.i
 
 # target to preprocess a source file
-src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.i:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.i
-.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.i
+src/algorithms/Graph/2SAT.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.i
+.PHONY : src/algorithms/Graph/2SAT.cpp.i
 
-src/algorithms/Arrays/MaximumSumIncreasingSubseq.s: src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.s
+src/algorithms/Graph/2SAT.s: src/algorithms/Graph/2SAT.cpp.s
 
-.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.s
+.PHONY : src/algorithms/Graph/2SAT.s
 
 # target to generate assembly for a file
-src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.s:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.s
-.PHONY : src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp.s
+src/algorithms/Graph/2SAT.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.s
+.PHONY : src/algorithms/Graph/2SAT.cpp.s
+
+src/algorithms/Graph/3SAT.o: src/algorithms/Graph/3SAT.cpp.o
+
+.PHONY : src/algorithms/Graph/3SAT.o
+
+# target to build an object file
+src/algorithms/Graph/3SAT.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.o
+.PHONY : src/algorithms/Graph/3SAT.cpp.o
+
+src/algorithms/Graph/3SAT.i: src/algorithms/Graph/3SAT.cpp.i
+
+.PHONY : src/algorithms/Graph/3SAT.i
+
+# target to preprocess a source file
+src/algorithms/Graph/3SAT.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.i
+.PHONY : src/algorithms/Graph/3SAT.cpp.i
+
+src/algorithms/Graph/3SAT.s: src/algorithms/Graph/3SAT.cpp.s
+
+.PHONY : src/algorithms/Graph/3SAT.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/3SAT.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.s
+.PHONY : src/algorithms/Graph/3SAT.cpp.s
+
+src/algorithms/Graph/Astar.o: src/algorithms/Graph/Astar.cpp.o
+
+.PHONY : src/algorithms/Graph/Astar.o
+
+# target to build an object file
+src/algorithms/Graph/Astar.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.o
+.PHONY : src/algorithms/Graph/Astar.cpp.o
+
+src/algorithms/Graph/Astar.i: src/algorithms/Graph/Astar.cpp.i
+
+.PHONY : src/algorithms/Graph/Astar.i
+
+# target to preprocess a source file
+src/algorithms/Graph/Astar.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.i
+.PHONY : src/algorithms/Graph/Astar.cpp.i
+
+src/algorithms/Graph/Astar.s: src/algorithms/Graph/Astar.cpp.s
+
+.PHONY : src/algorithms/Graph/Astar.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/Astar.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.s
+.PHONY : src/algorithms/Graph/Astar.cpp.s
+
+src/algorithms/Graph/BFS.o: src/algorithms/Graph/BFS.cpp.o
+
+.PHONY : src/algorithms/Graph/BFS.o
+
+# target to build an object file
+src/algorithms/Graph/BFS.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.o
+.PHONY : src/algorithms/Graph/BFS.cpp.o
+
+src/algorithms/Graph/BFS.i: src/algorithms/Graph/BFS.cpp.i
+
+.PHONY : src/algorithms/Graph/BFS.i
+
+# target to preprocess a source file
+src/algorithms/Graph/BFS.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.i
+.PHONY : src/algorithms/Graph/BFS.cpp.i
+
+src/algorithms/Graph/BFS.s: src/algorithms/Graph/BFS.cpp.s
+
+.PHONY : src/algorithms/Graph/BFS.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/BFS.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.s
+.PHONY : src/algorithms/Graph/BFS.cpp.s
+
+src/algorithms/Graph/BellmanFord.o: src/algorithms/Graph/BellmanFord.cpp.o
+
+.PHONY : src/algorithms/Graph/BellmanFord.o
+
+# target to build an object file
+src/algorithms/Graph/BellmanFord.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.o
+.PHONY : src/algorithms/Graph/BellmanFord.cpp.o
+
+src/algorithms/Graph/BellmanFord.i: src/algorithms/Graph/BellmanFord.cpp.i
+
+.PHONY : src/algorithms/Graph/BellmanFord.i
+
+# target to preprocess a source file
+src/algorithms/Graph/BellmanFord.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.i
+.PHONY : src/algorithms/Graph/BellmanFord.cpp.i
+
+src/algorithms/Graph/BellmanFord.s: src/algorithms/Graph/BellmanFord.cpp.s
+
+.PHONY : src/algorithms/Graph/BellmanFord.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/BellmanFord.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.s
+.PHONY : src/algorithms/Graph/BellmanFord.cpp.s
+
+src/algorithms/Graph/Cycle.o: src/algorithms/Graph/Cycle.cpp.o
+
+.PHONY : src/algorithms/Graph/Cycle.o
+
+# target to build an object file
+src/algorithms/Graph/Cycle.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.o
+.PHONY : src/algorithms/Graph/Cycle.cpp.o
+
+src/algorithms/Graph/Cycle.i: src/algorithms/Graph/Cycle.cpp.i
+
+.PHONY : src/algorithms/Graph/Cycle.i
+
+# target to preprocess a source file
+src/algorithms/Graph/Cycle.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.i
+.PHONY : src/algorithms/Graph/Cycle.cpp.i
+
+src/algorithms/Graph/Cycle.s: src/algorithms/Graph/Cycle.cpp.s
+
+.PHONY : src/algorithms/Graph/Cycle.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/Cycle.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.s
+.PHONY : src/algorithms/Graph/Cycle.cpp.s
+
+src/algorithms/Graph/DFS.o: src/algorithms/Graph/DFS.cpp.o
+
+.PHONY : src/algorithms/Graph/DFS.o
+
+# target to build an object file
+src/algorithms/Graph/DFS.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.o
+.PHONY : src/algorithms/Graph/DFS.cpp.o
+
+src/algorithms/Graph/DFS.i: src/algorithms/Graph/DFS.cpp.i
+
+.PHONY : src/algorithms/Graph/DFS.i
+
+# target to preprocess a source file
+src/algorithms/Graph/DFS.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.i
+.PHONY : src/algorithms/Graph/DFS.cpp.i
+
+src/algorithms/Graph/DFS.s: src/algorithms/Graph/DFS.cpp.s
+
+.PHONY : src/algorithms/Graph/DFS.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/DFS.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.s
+.PHONY : src/algorithms/Graph/DFS.cpp.s
+
+src/algorithms/Graph/Dijikstra.o: src/algorithms/Graph/Dijikstra.cpp.o
+
+.PHONY : src/algorithms/Graph/Dijikstra.o
+
+# target to build an object file
+src/algorithms/Graph/Dijikstra.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.o
+.PHONY : src/algorithms/Graph/Dijikstra.cpp.o
+
+src/algorithms/Graph/Dijikstra.i: src/algorithms/Graph/Dijikstra.cpp.i
+
+.PHONY : src/algorithms/Graph/Dijikstra.i
+
+# target to preprocess a source file
+src/algorithms/Graph/Dijikstra.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.i
+.PHONY : src/algorithms/Graph/Dijikstra.cpp.i
+
+src/algorithms/Graph/Dijikstra.s: src/algorithms/Graph/Dijikstra.cpp.s
+
+.PHONY : src/algorithms/Graph/Dijikstra.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/Dijikstra.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.s
+.PHONY : src/algorithms/Graph/Dijikstra.cpp.s
+
+src/algorithms/Graph/DisjointSet.o: src/algorithms/Graph/DisjointSet.cpp.o
+
+.PHONY : src/algorithms/Graph/DisjointSet.o
+
+# target to build an object file
+src/algorithms/Graph/DisjointSet.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.o
+.PHONY : src/algorithms/Graph/DisjointSet.cpp.o
+
+src/algorithms/Graph/DisjointSet.i: src/algorithms/Graph/DisjointSet.cpp.i
+
+.PHONY : src/algorithms/Graph/DisjointSet.i
+
+# target to preprocess a source file
+src/algorithms/Graph/DisjointSet.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.i
+.PHONY : src/algorithms/Graph/DisjointSet.cpp.i
+
+src/algorithms/Graph/DisjointSet.s: src/algorithms/Graph/DisjointSet.cpp.s
+
+.PHONY : src/algorithms/Graph/DisjointSet.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/DisjointSet.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.s
+.PHONY : src/algorithms/Graph/DisjointSet.cpp.s
+
+src/algorithms/Graph/FloydWarshal.o: src/algorithms/Graph/FloydWarshal.cpp.o
+
+.PHONY : src/algorithms/Graph/FloydWarshal.o
+
+# target to build an object file
+src/algorithms/Graph/FloydWarshal.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.o
+.PHONY : src/algorithms/Graph/FloydWarshal.cpp.o
+
+src/algorithms/Graph/FloydWarshal.i: src/algorithms/Graph/FloydWarshal.cpp.i
+
+.PHONY : src/algorithms/Graph/FloydWarshal.i
+
+# target to preprocess a source file
+src/algorithms/Graph/FloydWarshal.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.i
+.PHONY : src/algorithms/Graph/FloydWarshal.cpp.i
+
+src/algorithms/Graph/FloydWarshal.s: src/algorithms/Graph/FloydWarshal.cpp.s
+
+.PHONY : src/algorithms/Graph/FloydWarshal.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/FloydWarshal.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.s
+.PHONY : src/algorithms/Graph/FloydWarshal.cpp.s
+
+src/algorithms/Graph/Kruskal.o: src/algorithms/Graph/Kruskal.cpp.o
+
+.PHONY : src/algorithms/Graph/Kruskal.o
+
+# target to build an object file
+src/algorithms/Graph/Kruskal.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.o
+.PHONY : src/algorithms/Graph/Kruskal.cpp.o
+
+src/algorithms/Graph/Kruskal.i: src/algorithms/Graph/Kruskal.cpp.i
+
+.PHONY : src/algorithms/Graph/Kruskal.i
+
+# target to preprocess a source file
+src/algorithms/Graph/Kruskal.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.i
+.PHONY : src/algorithms/Graph/Kruskal.cpp.i
+
+src/algorithms/Graph/Kruskal.s: src/algorithms/Graph/Kruskal.cpp.s
+
+.PHONY : src/algorithms/Graph/Kruskal.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/Kruskal.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.s
+.PHONY : src/algorithms/Graph/Kruskal.cpp.s
+
+src/algorithms/Graph/Prim.o: src/algorithms/Graph/Prim.cpp.o
+
+.PHONY : src/algorithms/Graph/Prim.o
+
+# target to build an object file
+src/algorithms/Graph/Prim.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.o
+.PHONY : src/algorithms/Graph/Prim.cpp.o
+
+src/algorithms/Graph/Prim.i: src/algorithms/Graph/Prim.cpp.i
+
+.PHONY : src/algorithms/Graph/Prim.i
+
+# target to preprocess a source file
+src/algorithms/Graph/Prim.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.i
+.PHONY : src/algorithms/Graph/Prim.cpp.i
+
+src/algorithms/Graph/Prim.s: src/algorithms/Graph/Prim.cpp.s
+
+.PHONY : src/algorithms/Graph/Prim.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/Prim.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.s
+.PHONY : src/algorithms/Graph/Prim.cpp.s
+
+src/algorithms/Graph/SCC.o: src/algorithms/Graph/SCC.cpp.o
+
+.PHONY : src/algorithms/Graph/SCC.o
+
+# target to build an object file
+src/algorithms/Graph/SCC.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.o
+.PHONY : src/algorithms/Graph/SCC.cpp.o
+
+src/algorithms/Graph/SCC.i: src/algorithms/Graph/SCC.cpp.i
+
+.PHONY : src/algorithms/Graph/SCC.i
+
+# target to preprocess a source file
+src/algorithms/Graph/SCC.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.i
+.PHONY : src/algorithms/Graph/SCC.cpp.i
+
+src/algorithms/Graph/SCC.s: src/algorithms/Graph/SCC.cpp.s
+
+.PHONY : src/algorithms/Graph/SCC.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/SCC.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.s
+.PHONY : src/algorithms/Graph/SCC.cpp.s
+
+src/algorithms/Graph/TopologicaLSorting.o: src/algorithms/Graph/TopologicaLSorting.cpp.o
+
+.PHONY : src/algorithms/Graph/TopologicaLSorting.o
+
+# target to build an object file
+src/algorithms/Graph/TopologicaLSorting.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.o
+.PHONY : src/algorithms/Graph/TopologicaLSorting.cpp.o
+
+src/algorithms/Graph/TopologicaLSorting.i: src/algorithms/Graph/TopologicaLSorting.cpp.i
+
+.PHONY : src/algorithms/Graph/TopologicaLSorting.i
+
+# target to preprocess a source file
+src/algorithms/Graph/TopologicaLSorting.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.i
+.PHONY : src/algorithms/Graph/TopologicaLSorting.cpp.i
+
+src/algorithms/Graph/TopologicaLSorting.s: src/algorithms/Graph/TopologicaLSorting.cpp.s
+
+.PHONY : src/algorithms/Graph/TopologicaLSorting.s
+
+# target to generate assembly for a file
+src/algorithms/Graph/TopologicaLSorting.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.s
+.PHONY : src/algorithms/Graph/TopologicaLSorting.cpp.s
 
 # Help Target
 help:
@@ -159,9 +510,48 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Hailey"
-	@echo "... src/algorithms/Arrays/MaximumSumIncreasingSubseq.o"
-	@echo "... src/algorithms/Arrays/MaximumSumIncreasingSubseq.i"
-	@echo "... src/algorithms/Arrays/MaximumSumIncreasingSubseq.s"
+	@echo "... src/algorithms/Graph/2SAT.o"
+	@echo "... src/algorithms/Graph/2SAT.i"
+	@echo "... src/algorithms/Graph/2SAT.s"
+	@echo "... src/algorithms/Graph/3SAT.o"
+	@echo "... src/algorithms/Graph/3SAT.i"
+	@echo "... src/algorithms/Graph/3SAT.s"
+	@echo "... src/algorithms/Graph/Astar.o"
+	@echo "... src/algorithms/Graph/Astar.i"
+	@echo "... src/algorithms/Graph/Astar.s"
+	@echo "... src/algorithms/Graph/BFS.o"
+	@echo "... src/algorithms/Graph/BFS.i"
+	@echo "... src/algorithms/Graph/BFS.s"
+	@echo "... src/algorithms/Graph/BellmanFord.o"
+	@echo "... src/algorithms/Graph/BellmanFord.i"
+	@echo "... src/algorithms/Graph/BellmanFord.s"
+	@echo "... src/algorithms/Graph/Cycle.o"
+	@echo "... src/algorithms/Graph/Cycle.i"
+	@echo "... src/algorithms/Graph/Cycle.s"
+	@echo "... src/algorithms/Graph/DFS.o"
+	@echo "... src/algorithms/Graph/DFS.i"
+	@echo "... src/algorithms/Graph/DFS.s"
+	@echo "... src/algorithms/Graph/Dijikstra.o"
+	@echo "... src/algorithms/Graph/Dijikstra.i"
+	@echo "... src/algorithms/Graph/Dijikstra.s"
+	@echo "... src/algorithms/Graph/DisjointSet.o"
+	@echo "... src/algorithms/Graph/DisjointSet.i"
+	@echo "... src/algorithms/Graph/DisjointSet.s"
+	@echo "... src/algorithms/Graph/FloydWarshal.o"
+	@echo "... src/algorithms/Graph/FloydWarshal.i"
+	@echo "... src/algorithms/Graph/FloydWarshal.s"
+	@echo "... src/algorithms/Graph/Kruskal.o"
+	@echo "... src/algorithms/Graph/Kruskal.i"
+	@echo "... src/algorithms/Graph/Kruskal.s"
+	@echo "... src/algorithms/Graph/Prim.o"
+	@echo "... src/algorithms/Graph/Prim.i"
+	@echo "... src/algorithms/Graph/Prim.s"
+	@echo "... src/algorithms/Graph/SCC.o"
+	@echo "... src/algorithms/Graph/SCC.i"
+	@echo "... src/algorithms/Graph/SCC.s"
+	@echo "... src/algorithms/Graph/TopologicaLSorting.o"
+	@echo "... src/algorithms/Graph/TopologicaLSorting.i"
+	@echo "... src/algorithms/Graph/TopologicaLSorting.s"
 .PHONY : help
 
 

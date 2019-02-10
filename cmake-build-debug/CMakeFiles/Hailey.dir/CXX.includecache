@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/oyo/Desktop/C++/Hailey/src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp
+/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/GraphBuilder.h
 ../../all.h
 /Users/oyo/Desktop/C++/Hailey/src/all.h
+
+/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Kruskal.cpp
+GraphBuilder.h
+/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/GraphBuilder.h
 
 /Users/oyo/Desktop/C++/Hailey/src/all.h
 iostream
@@ -22,5 +26,9 @@ queue
 numeric
 -
 utility
+-
+random
+-
+cstdlib
 -
 

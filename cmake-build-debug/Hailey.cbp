@@ -80,7 +80,49 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Arrays/MaximumSumIncreasingSubseq.cpp">
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/2SAT.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/3SAT.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Astar.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/BFS.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/BellmanFord.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Cycle.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/DFS.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Dijikstra.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/DisjointSet.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/FloydWarshal.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/GraphBuilder.h">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Kruskal.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Prim.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/SCC.cpp">
+			<Option target="Hailey"/>
+		</Unit>
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/TopologicaLSorting.cpp">
 			<Option target="Hailey"/>
 		</Unit>
 		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/all.h">
