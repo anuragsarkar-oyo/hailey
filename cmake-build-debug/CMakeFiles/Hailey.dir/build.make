@@ -57,225 +57,45 @@ include CMakeFiles/Hailey.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Hailey.dir/flags.make
 
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.o: ../src/algorithms/Graph/Kruskal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Kruskal.cpp
+CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.o: CMakeFiles/Hailey.dir/flags.make
+CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.o: ../src/algorithms/String/58A.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/String/58A.cpp
 
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Kruskal.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.i
+CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/String/58A.cpp > CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.i
 
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Kruskal.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.s
+CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/String/58A.cpp -o CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.s
 
-CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.o: ../src/algorithms/Graph/BFS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/BFS.cpp
+CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.o: CMakeFiles/Hailey.dir/flags.make
+CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.o: ../src/algorithms/String/1107A.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/String/1107A.cpp
 
-CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/BFS.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.i
+CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/String/1107A.cpp > CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.i
 
-CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/BFS.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.o: ../src/algorithms/Graph/DFS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/DFS.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/DFS.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/DFS.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.o: ../src/algorithms/Graph/Prim.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Prim.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Prim.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Prim.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.o: ../src/algorithms/Graph/DisjointSet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/DisjointSet.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/DisjointSet.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/DisjointSet.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.o: ../src/algorithms/Graph/Dijikstra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Dijikstra.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Dijikstra.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Dijikstra.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.o: ../src/algorithms/Graph/Astar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Astar.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Astar.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Astar.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.o: ../src/algorithms/Graph/Cycle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Cycle.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Cycle.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/Cycle.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.o: ../src/algorithms/Graph/TopologicaLSorting.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/TopologicaLSorting.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/TopologicaLSorting.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/TopologicaLSorting.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.o: ../src/algorithms/Graph/BellmanFord.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/BellmanFord.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/BellmanFord.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/BellmanFord.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.o: ../src/algorithms/Graph/FloydWarshal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/FloydWarshal.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/FloydWarshal.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/FloydWarshal.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.o: ../src/algorithms/Graph/SCC.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/SCC.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/SCC.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/SCC.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.o: ../src/algorithms/Graph/2SAT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/2SAT.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/2SAT.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/2SAT.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.s
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.o: CMakeFiles/Hailey.dir/flags.make
-CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.o: ../src/algorithms/Graph/3SAT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.o -c /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/3SAT.cpp
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/3SAT.cpp > CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.i
-
-CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/Graph/3SAT.cpp -o CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.s
+CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/oyo/Desktop/C++/Hailey/src/algorithms/String/1107A.cpp -o CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.s
 
 # Object files for target Hailey
 Hailey_OBJECTS = \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.o" \
-"CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.o"
+"CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.o" \
+"CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.o"
 
 # External object files for target Hailey
 Hailey_EXTERNAL_OBJECTS =
 
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/Kruskal.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/BFS.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/DFS.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/Prim.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/DisjointSet.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/Dijikstra.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/Astar.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/Cycle.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/TopologicaLSorting.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/BellmanFord.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/FloydWarshal.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/SCC.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/2SAT.cpp.o
-Hailey: CMakeFiles/Hailey.dir/src/algorithms/Graph/3SAT.cpp.o
+Hailey: CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.o
+Hailey: CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.o
 Hailey: CMakeFiles/Hailey.dir/build.make
 Hailey: CMakeFiles/Hailey.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable Hailey"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Hailey"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Hailey.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
