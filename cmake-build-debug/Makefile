@@ -123,32 +123,32 @@ Hailey/fast:
 	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/build
 .PHONY : Hailey/fast
 
-src/algorithms/String/1107C.o: src/algorithms/String/1107C.cpp.o
+src/algorithms/Greedy/1113B.o: src/algorithms/Greedy/1113B.cpp.o
 
-.PHONY : src/algorithms/String/1107C.o
+.PHONY : src/algorithms/Greedy/1113B.o
 
 # target to build an object file
-src/algorithms/String/1107C.cpp.o:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/1107C.cpp.o
-.PHONY : src/algorithms/String/1107C.cpp.o
+src/algorithms/Greedy/1113B.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Greedy/1113B.cpp.o
+.PHONY : src/algorithms/Greedy/1113B.cpp.o
 
-src/algorithms/String/1107C.i: src/algorithms/String/1107C.cpp.i
+src/algorithms/Greedy/1113B.i: src/algorithms/Greedy/1113B.cpp.i
 
-.PHONY : src/algorithms/String/1107C.i
+.PHONY : src/algorithms/Greedy/1113B.i
 
 # target to preprocess a source file
-src/algorithms/String/1107C.cpp.i:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/1107C.cpp.i
-.PHONY : src/algorithms/String/1107C.cpp.i
+src/algorithms/Greedy/1113B.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Greedy/1113B.cpp.i
+.PHONY : src/algorithms/Greedy/1113B.cpp.i
 
-src/algorithms/String/1107C.s: src/algorithms/String/1107C.cpp.s
+src/algorithms/Greedy/1113B.s: src/algorithms/Greedy/1113B.cpp.s
 
-.PHONY : src/algorithms/String/1107C.s
+.PHONY : src/algorithms/Greedy/1113B.s
 
 # target to generate assembly for a file
-src/algorithms/String/1107C.cpp.s:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/1107C.cpp.s
-.PHONY : src/algorithms/String/1107C.cpp.s
+src/algorithms/Greedy/1113B.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/Greedy/1113B.cpp.s
+.PHONY : src/algorithms/Greedy/1113B.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Hailey"
-	@echo "... src/algorithms/String/1107C.o"
-	@echo "... src/algorithms/String/1107C.i"
-	@echo "... src/algorithms/String/1107C.s"
+	@echo "... src/algorithms/Greedy/1113B.o"
+	@echo "... src/algorithms/Greedy/1113B.i"
+	@echo "... src/algorithms/Greedy/1113B.s"
 .PHONY : help
 
 
