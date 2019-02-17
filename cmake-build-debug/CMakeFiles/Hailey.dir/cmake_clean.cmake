@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.o"
-  "CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.o"
+  "CMakeFiles/Hailey.dir/src/algorithms/String/1107C.cpp.o"
   "Hailey.pdb"
   "Hailey"
 )

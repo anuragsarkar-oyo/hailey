@@ -80,10 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/String/1107A.cpp">
-			<Option target="Hailey"/>
-		</Unit>
-		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/String/58A.cpp">
+		<Unit filename="/Users/oyo/Desktop/C++/Hailey/src/algorithms/String/1107C.cpp">
 			<Option target="Hailey"/>
 		</Unit>
 		<Unit filename="/Users/oyo/Desktop/C++/Hailey/CMakeLists.txt">

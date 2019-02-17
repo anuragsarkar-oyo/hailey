@@ -123,59 +123,32 @@ Hailey/fast:
 	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/build
 .PHONY : Hailey/fast
 
-src/algorithms/String/1107A.o: src/algorithms/String/1107A.cpp.o
+src/algorithms/String/1107C.o: src/algorithms/String/1107C.cpp.o
 
-.PHONY : src/algorithms/String/1107A.o
-
-# target to build an object file
-src/algorithms/String/1107A.cpp.o:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.o
-.PHONY : src/algorithms/String/1107A.cpp.o
-
-src/algorithms/String/1107A.i: src/algorithms/String/1107A.cpp.i
-
-.PHONY : src/algorithms/String/1107A.i
-
-# target to preprocess a source file
-src/algorithms/String/1107A.cpp.i:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.i
-.PHONY : src/algorithms/String/1107A.cpp.i
-
-src/algorithms/String/1107A.s: src/algorithms/String/1107A.cpp.s
-
-.PHONY : src/algorithms/String/1107A.s
-
-# target to generate assembly for a file
-src/algorithms/String/1107A.cpp.s:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/1107A.cpp.s
-.PHONY : src/algorithms/String/1107A.cpp.s
-
-src/algorithms/String/58A.o: src/algorithms/String/58A.cpp.o
-
-.PHONY : src/algorithms/String/58A.o
+.PHONY : src/algorithms/String/1107C.o
 
 # target to build an object file
-src/algorithms/String/58A.cpp.o:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.o
-.PHONY : src/algorithms/String/58A.cpp.o
+src/algorithms/String/1107C.cpp.o:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/1107C.cpp.o
+.PHONY : src/algorithms/String/1107C.cpp.o
 
-src/algorithms/String/58A.i: src/algorithms/String/58A.cpp.i
+src/algorithms/String/1107C.i: src/algorithms/String/1107C.cpp.i
 
-.PHONY : src/algorithms/String/58A.i
+.PHONY : src/algorithms/String/1107C.i
 
 # target to preprocess a source file
-src/algorithms/String/58A.cpp.i:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.i
-.PHONY : src/algorithms/String/58A.cpp.i
+src/algorithms/String/1107C.cpp.i:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/1107C.cpp.i
+.PHONY : src/algorithms/String/1107C.cpp.i
 
-src/algorithms/String/58A.s: src/algorithms/String/58A.cpp.s
+src/algorithms/String/1107C.s: src/algorithms/String/1107C.cpp.s
 
-.PHONY : src/algorithms/String/58A.s
+.PHONY : src/algorithms/String/1107C.s
 
 # target to generate assembly for a file
-src/algorithms/String/58A.cpp.s:
-	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/58A.cpp.s
-.PHONY : src/algorithms/String/58A.cpp.s
+src/algorithms/String/1107C.cpp.s:
+	$(MAKE) -f CMakeFiles/Hailey.dir/build.make CMakeFiles/Hailey.dir/src/algorithms/String/1107C.cpp.s
+.PHONY : src/algorithms/String/1107C.cpp.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Hailey"
-	@echo "... src/algorithms/String/1107A.o"
-	@echo "... src/algorithms/String/1107A.i"
-	@echo "... src/algorithms/String/1107A.s"
-	@echo "... src/algorithms/String/58A.o"
-	@echo "... src/algorithms/String/58A.i"
-	@echo "... src/algorithms/String/58A.s"
+	@echo "... src/algorithms/String/1107C.o"
+	@echo "... src/algorithms/String/1107C.i"
+	@echo "... src/algorithms/String/1107C.s"
 .PHONY : help
 
 
