@@ -5,4 +5,4 @@ project(Hailey)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Hailey src/algorithms/Greedy/1113B.cpp)
+add_executable(Hailey src/algorithms/Greedy/1097C.cpp)

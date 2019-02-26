@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/oyo/Desktop/C++/Hailey/src/algorithms/Greedy/1113B.cpp" "/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles/Hailey.dir/src/algorithms/Greedy/1113B.cpp.o"
+  "/Users/oyo/Desktop/C++/Hailey/src/algorithms/Greedy/1097C.cpp" "/Users/oyo/Desktop/C++/Hailey/cmake-build-debug/CMakeFiles/Hailey.dir/src/algorithms/Greedy/1097C.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
